@@ -13,4 +13,4 @@ I like to develop something very useful and fun 🤩
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tnfls99&show_icons=true&theme=dracula)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tnfls99&show_icons=true&theme=dracula) -->
