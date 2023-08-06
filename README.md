@@ -14,3 +14,8 @@ I like to develop something very useful and fun 🤩
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=FFFFFF"/></a>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tnfls99&show_icons=true&theme=dracula) -->
+
+## My history
+[Notion](https://surindev.notion.site/Public-d4b3041fcd674527871e895fad1a6617?pvs=4)
+
+[Blog](https://velog.io/@tnfls99)
